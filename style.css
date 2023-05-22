@@ -1,0 +1,19 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.box {
+  max-width: 100px;
+  max-height: 100px;
+  width: 5%;
+  aspect-ratio: 1/1;
+  border: 1px solid black;
+}
+
+
+.row{
+  display: flex;
+}
+/*make three boxes with color selector*/
+/*change boxese to selected color when clicked*/
